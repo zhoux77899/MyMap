@@ -29,7 +29,7 @@
     "fibers": "^4.0.2",
     "lint-staged": "^9.4.3",
     "sass": "^1.23.7",
-    "sass-loader": "^8.0.0",
+    "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
